@@ -1,5 +1,3 @@
-# B-YEP-410-PAR-4-1-zappy-pierre-alexandre.delgado-arevalo
-
 # Le projet
 
 L'objectif de ce projet est de créer un jeu vidéo en réseau, dans lequel ce ne sont pas des humains qui jouent, mais des IA.
